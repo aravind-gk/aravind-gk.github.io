@@ -30,7 +30,17 @@ github_username:  aravind-gk
 # Build settings
 theme: minima
 plugins:
+  # - jekyll-sitemap
   - jekyll-feed
+
+# font:
+#   enable: true
+
+#   host: //fonts.googleapis.com
+
+#   global:
+#     external: false
+#     family: serif
 
 # Exclude from processing.
 # The following items will not be processed, by default.

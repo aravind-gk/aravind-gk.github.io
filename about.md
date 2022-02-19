@@ -4,6 +4,16 @@ title: About
 permalink: /about/
 ---
 
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+
+<style type="text/css">
+body {
+    font-family: Lora;
+}
+</style>
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

@@ -18,7 +18,7 @@ body {
 - Image captioning formulated as a multimodal translation task --- input image features are extracted using various encoder models and used for caption generation.
 - Used multimodal transformer to capture both intra-modal and inter-modal interactions in a unified attention block.
 
-#### [Multiclass Text Classification](https://github.com/aravind-gk/Text-Classification)
+#### [Multi-class Text Classification](https://github.com/aravind-gk/Text-Classification)
 - Compared C-LSTMs (a combination of CNN and LSTM), transformers and deep averaging networks for classifying text documents.
 - Used self-attention mechanism at output, dynamic meta-embeddings at input and experimented with encoder blocks, positional embeddings, bi-gram embeddings to improve model performance.
 

@@ -85,6 +85,7 @@ I'm Aravind, currently a graduate student at the Indian Institute of Science, wh
 - I secured All India Rank 6 in the GATE Computer Science exam, out of 1,00,000+ candidates.
 - I was also a teaching assistant for the IISc course **E2 202: Random Processes** during Fall 2021
 - I'm also certified in "CodeChef Certified Data Structures and Algorithms Programme” (Advanced Level)
+- Global percentile of 98.6 for programming contests on Hackerrank [(profile)](https://www.hackerrank.com/fireball5)
 
 <!-- <p style="text-align: left; width:49%; display: inline-block;"><h2>LEFT</h2></p>
 <p style="text-align: right; width:50%;  display: inline-block;">RIGHT</p> -->

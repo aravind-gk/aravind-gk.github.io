@@ -22,25 +22,21 @@ title: Aravind G.
 email: aravindg1@iisc.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Aravind's personal blog (work-in-progress)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "aravind-gk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "aravind-gk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# facebook_username: g.aravind.17
 twitter_username: aravind_IISc
 github_username:  aravind-gk
+instagram_username: g.aravind.17
+# quora_username: G-Aravind
+linkedin_username: aravindgk
+
 
 # Build settings
 theme: minima
 plugins:
   # - jekyll-sitemap
   - jekyll-feed
-
-# font:
-#   enable: true
-
-#   host: //fonts.googleapis.com
-
-#   global:
-#     external: false
-#     family: serif
 
 # Exclude from processing.
 # The following items will not be processed, by default.

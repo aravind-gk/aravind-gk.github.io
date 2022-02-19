@@ -39,10 +39,8 @@ body {
 ### Hey there, I'm Aravind 👋 
 
 - 🎓 I'm a graduate student at Indian Institute of Science (IISc), specialising in Artificial Intelligence.
-- 🔭 I’m currently working on Recommendation Systems and Adversarial Machine Learning.
-- 🌱 I’m currently learning Natural Language Processing, Reinforcement Learning and Computer Vision.
+- 🔭 My current research interests are Recommendation Systems and Adversarial Machine Learning.
+- 🌱 I’m also learning Natural Language Processing, Reinforcement Learning, Computer Vision and Scalable Systems.
 - 👯 I’m looking to collaborate on interesting Machine Learning projects.
 - 💬 Ask me about careers in AI, life at IISc or preparing for the GATE Exam.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravindgk/), [Twitter](https://twitter.com/aravind_IISc), [Quora](https://www.quora.com/profile/G-Aravind), [Email](mailto:aravindg1@iisc.ac.in).
-
-

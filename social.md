@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Social
 permalink: /social/
 ---
@@ -13,5 +13,7 @@ body {
     font-family: Lora;
 }
 </style>
+
+### hello
 
 [jekyll-organization]: https://github.com/jekyll

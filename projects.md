@@ -14,6 +14,10 @@ body {
 }
 </style>
 
+#### [Adversarial Attacks on Recommendation System Models](https://github.com/aravind-gk/RecSysAttack)
+- Using hyperparameter tuning techniques to tune the graph data's structure in order to drop the recommender’s performance
+- Attacking the user-item graph using meta-learning techniques, for reducing the generalization performance of collaborative filtering systems
+
 #### [Multimodal Transformers for Image Captioning](https://github.com/aravind-gk/Multimodal-Transformers-for-Image-Captioning)
 - Image captioning formulated as a multimodal translation task --- input image features are extracted using various encoder models and used for caption generation.
 - Used multimodal transformer to capture both intra-modal and inter-modal interactions in a unified attention block.

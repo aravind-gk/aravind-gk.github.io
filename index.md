@@ -33,7 +33,7 @@ body {
 
 <!-- |I am text to the left|![image](./pictures/octocat.png#right)| -->
 <div class="image-cropper">
-    <img  width="300" height="300" src="./pictures/octocat.png" >
+    <img  width="300" height="300" src="./pictures/selfie-square.jpg" >
 </div>
 
 ### Hey there, I'm Aravind 👋 

@@ -12,29 +12,10 @@ layout: default
 <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
 
 <style type="text/css">
-.image-cropper {
-  width: 220px;
-  height: 220px;
-  /* position: relative; */
-  overflow: hidden;
-  border-radius: 50%;
-  float: right;
-}
-img {
-  display: inline;
-  margin: 0 auto;
-  height: 100%;
-  width: auto;
-}
 body {
     font-family: Lora;
 }
 </style>
-
-<!-- |I am text to the left|![image](./pictures/octocat.png#right)| -->
-<div class="image-cropper">
-    <img  width="300" height="300" src="./pictures/selfie-square.jpg" >
-</div>
 
 ### Hey there, I'm Aravind 👋 
 

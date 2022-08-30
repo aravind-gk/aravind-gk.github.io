@@ -62,8 +62,8 @@ I'm Aravind, currently a graduate student at the Indian Institute of Science, wh
     </span>
 </p>
 - Interned with the AI Garage team at Mastercard, which focuses on designing AI-based solutions for use-cases in the payments industry. 
-- Majority of my time as an intern was devoted to building models for predicting high-value transactions, and predicting the time and type for next transaction for a user.
-- Also modeled financial transactions as *Marked Temporal Point Processes*, modeled their probability distributions, and used it to predict the time and category of future transactions.
+- Majority of my time as an intern was devoted to building models for predicting high-value transactions, and predicting the time and type of next transaction for a user.
+- Also modeled financial transactions as Marked Temporal Point Processes, modeled their probability distributions, and used it to predict the time and category of future transactions.
 
 # Education
 <p style="text-align:left;">
@@ -79,7 +79,7 @@ I'm Aravind, currently a graduate student at the Indian Institute of Science, wh
     </span>
 </p>
 
-- I work in the *Intelligent Systems Lab* under the guidance of Prof. Shirish Shevade. Our work revolves around attacking graph-based recommendation system models.
+- I worked with the *Intelligent Systems Lab* under the guidance of Prof. Shirish Shevade, Dept. of Computer Science and Automation, IISc. Our work was focused on attacking recommendation system models using gradient-based techniques.
 - **Key courses taken** --- Pattern Recognition, Advanced Deep Learning, Computer Vision, Natural Language Processing, Data Analytics, Reinforcement Learning, Computational Optimization, Linear Algebra, Random Processes.
 
 <p style="text-align:left;">
@@ -100,9 +100,9 @@ I'm Aravind, currently a graduate student at the Indian Institute of Science, wh
 
 # Achievements & Extra-Curricular
 - I secured All India Rank 6 in the GATE Computer Science exam, out of 1,00,000+ candidates.
-- I was also a teaching assistant for the IISc course **E2 202: Random Processes** during Fall 2021
-- I'm also certified in "CodeChef Certified Data Structures and Algorithms Programme” (Advanced Level)
-- Global percentile of 98.6 for programming contests on Hackerrank [(profile)](https://www.hackerrank.com/fireball5)
+- I was also a teaching assistant for the IISc course **E2 202: Random Processes** during Fall 2021.
+- I'm also certified in "CodeChef Certified Data Structures and Algorithms Programme” (Advanced Level).
+- Global percentile of 98.6 for programming contests on Hackerrank.
 
 <!-- <p style="text-align: left; width:49%; display: inline-block;"><h2>LEFT</h2></p>
 <p style="text-align: right; width:50%;  display: inline-block;">RIGHT</p> -->

@@ -26,6 +26,20 @@ I'm Aravind, currently a graduate student at the Indian Institute of Science, wh
 
 # Work Experience
 
+<p style="text-align:left;">
+    <span style="font-weight:bold; font-size:18.72px;">Microsoft</span>
+    <span style="float:right;">
+        Aug 2022 - Present
+    </span>
+</p>
+<p id="bachelors-degree" style="text-align:left;">
+    <span style="font-weight; font-size:15px;">Data & Applied Scientist</span>
+    <span style="float:right;">
+        Hyderabad, India
+    </span>
+</p>
+- Improving the experience of searching for tech-related and developer-related queries on the Bing search engine.
+
 <!-- Option 1 -->
 <!-- <p style="text-align:left;">
     <span style="font-weight:bold; font-size:18.72px;">Data Scientist Intern @ Mastercard</span>
@@ -43,6 +57,9 @@ I'm Aravind, currently a graduate student at the Indian Institute of Science, wh
 </p>
 <p id="bachelors-degree" style="text-align:left;">
     <span style="font-weight; font-size:15px;">Data Scientist Intern</span>
+    <span style="float:right;">
+        Gurgaon, India
+    </span>
 </p>
 - Interned with the AI Garage team at Mastercard, which focuses on designing AI-based solutions for use-cases in the payments industry. 
 - Majority of my time as an intern was devoted to building models for predicting high-value transactions, and predicting the time and type for next transaction for a user.

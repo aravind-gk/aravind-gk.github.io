@@ -44,5 +44,3 @@ body {
 - 👯 Looking to collaborate on interesting Machine Learning projects.
 - 💬 Ask me about AI, life at IISc or preparing for the GATE Exam.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aravind-gk/" target="_blank" rel="noopener noreferrer">Linkedin</a>, <a href="https://twitter.com/aravind_IISc" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.quora.com/profile/G-Aravind" target="_blank" rel="noopener noreferrer">Quora</a>, <a href="https://myanimelist.net/profile/j-e-l-l-a-l" target="_blank" rel="noopener noreferrer">MyAnimeList</a>, <a href="mailto:g.aravind@hotmail.com" target="_blank">Email</a>.
-
-<!-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravind-gk/), [Twitter](https://twitter.com/aravind_IISc), [Quora](https://www.quora.com/profile/G-Aravind), [MyAnimeList](https://myanimelist.net/profile/j-e-l-l-a-l), [Email](mailto:g.aravind@hotmail.com).>

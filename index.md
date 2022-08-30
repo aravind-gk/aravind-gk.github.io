@@ -43,4 +43,4 @@ body {
 - 🌱 I’m also learning Natural Language Processing, Reinforcement Learning, Computer Vision and Scalable Systems.
 - 👯 I’m looking to collaborate on interesting Machine Learning projects.
 - 💬 Ask me about AI, life at IISc or preparing for the GATE Exam.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravind-gk/), [Twitter](https://twitter.com/aravind_IISc), [Quora](https://www.quora.com/profile/G-Aravind), [Email](mailto:aravindg1@iisc.ac.in).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravind-gk/), [Twitter](https://twitter.com/aravind_IISc), [Quora](https://www.quora.com/profile/G-Aravind), [MyAnimeList](https://myanimelist.net/profile/j-e-l-l-a-l), [Email](mailto:g.aravind@hotmail.com).

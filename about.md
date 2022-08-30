@@ -22,7 +22,7 @@ body {
 
 # About Me
 
-I'm Aravind, a Data Scientist by profession. I studied AI at Indian Institute of Science, and currently working at Microsoft. My core interests at the moment are search, recommendation systems, and natural language processing, although I'm also broadly interested in other domains of AI as well. 
+I'm Aravind, a Data Scientist by profession. I studied AI at Indian Institute of Science, and currently working at Microsoft. My core interests at the moment are search, recommendation systems, and natural language processing, although I'm broadly interested in other domains of AI as well. 
 
 # Work Experience
 

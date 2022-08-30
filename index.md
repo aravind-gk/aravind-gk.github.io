@@ -38,9 +38,9 @@ body {
 
 ### Hey there, I'm Aravind 👋 
 
-- 🎓 I'm a graduate student at Indian Institute of Science (IISc), specialising in Artificial Intelligence.
-- 🔭 My current research interests are Recommendation Systems and Adversarial Machine Learning.
-- 🌱 I’m also learning Natural Language Processing, Reinforcement Learning, Computer Vision and Scalable Systems.
-- 👯 I’m looking to collaborate on interesting Machine Learning projects.
+- 🔭 I work as a Data & Applied Scientist at Microsoft India.
+- 🎓 Completed Master's in Artificial Intelligence from Indian Institute of Science (IISc), where I worked extensively on Recommendation Systems and Adversarial Machine Learning.
+- 🌱 Also learning Natural Language Processing, Reinforcement Learning, Computer Vision and Scalable Systems.
+- 👯 Looking to collaborate on interesting Machine Learning projects.
 - 💬 Ask me about AI, life at IISc or preparing for the GATE Exam.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravind-gk/), [Twitter](https://twitter.com/aravind_IISc), [Quora](https://www.quora.com/profile/G-Aravind), [MyAnimeList](https://myanimelist.net/profile/j-e-l-l-a-l), [Email](mailto:g.aravind@hotmail.com).

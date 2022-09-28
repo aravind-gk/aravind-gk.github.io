@@ -14,7 +14,7 @@ body {
 }
 </style>
 
-<h4><a href="https://github.com/aravind-gk/RecSysAttack" target="_blank" rel="noopener noreferrer">Adversarial Attacks on Recommendation System Models</a>[<a href="https://drive.google.com/file/d/1LKZplHeaGoB0c8OqDgvtLLXfEioBaK-d/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link to Thesis</a>]</h4>
+<h4><a href="https://github.com/aravind-gk/RecSysAttack" target="_blank" rel="noopener noreferrer">Adversarial Attacks on Recommendation System Models</a> [<a href="https://drive.google.com/file/d/1LKZplHeaGoB0c8OqDgvtLLXfEioBaK-d/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link to Thesis</a>]</h4>
 - Using hyperparameter tuning techniques to tune the graph data's structure in order to drop the recommender’s performance
 - Attacking the user-item graph using meta-learning techniques, for reducing the generalization performance of collaborative filtering systems
 

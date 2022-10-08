@@ -33,7 +33,7 @@ body {
 
 <!-- |I am text to the left|![image](./pictures/octocat.png#right)| -->
 <div class="image-cropper">
-    <img  width="300" height="300" src="./pictures/old-square-cropped.jpg" >
+    <img  width="260" height="260" src="./pictures/old-square-cropped.jpg" >
 </div>
 
 ### Hey there, I'm Aravind 👋 
@@ -41,6 +41,6 @@ body {
 - 🔭 I work as a Data & Applied Scientist at Microsoft.
 - 🎓 Master's in Artificial Intelligence from Indian Institute of Science (IISc), where I worked extensively on recommendation systems.
 - 🌱 Also learning natural language processing, reinforcement learning, computer vision and scalable systems.
-- 👯 Looking to collaborate on interesting ML projects.
+- 👯 I'm looking to collaborate on interesting ML projects, and I also offer consultancy services to startups in specific domains of AI and machine learning.
 - 💬 Ask me about AI, life at IISc or preparing for the GATE Exam.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aravind-gk/" target="_blank" rel="noopener noreferrer">Linkedin</a>, <a href="https://twitter.com/aravind_IISc" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.quora.com/profile/G-Aravind" target="_blank" rel="noopener noreferrer">Quora</a>, <a href="https://myanimelist.net/profile/j-e-l-l-a-l" target="_blank" rel="noopener noreferrer">MyAnimeList</a>, <a href="http://live.xbox.com/Profile?Gamertag=jellal2874" target="_blank" rel="noopener noreferrer">Xbox</a>, <a href="mailto:g.aravind@hotmail.com" target="_blank">Email</a>.

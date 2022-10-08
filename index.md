@@ -13,8 +13,8 @@ layout: default
 
 <style type="text/css">
 .image-cropper {
-  width: 220px;
-  height: 220px;
+  width: 190px;
+  height: 190px;
   /* position: relative; */
   overflow: hidden;
   border-radius: 50%;

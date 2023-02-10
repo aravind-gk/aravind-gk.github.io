@@ -17,7 +17,7 @@ body {
 Things I want to do.
 
 1. Learn Japanese
-2. Get a cat 
+2. Adopt a cat shelter
 3. Live in another country for a year
 4. Plant a garden
 5. Read 500 books
@@ -49,7 +49,7 @@ Things I want to do.
 31. See the Milky Way from Australia 
 32. See the Aurorae Borealis 
 33. Hike Mount Fuji
-34. See Penguins in Antarctica
+34. See penguins in Antarctica
 36. Play with elephants in ENP, Thailand 
 35. Visit a volcano in Reykjavik
 38. Be kind 

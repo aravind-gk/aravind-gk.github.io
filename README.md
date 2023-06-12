@@ -1,3 +1,3 @@
 # GitHub Pages Personal Website
 
-Website live at [https://aravind-gk.github.io/](https://aravind-gk.github.io/)
+Website live at https://aravindg.com

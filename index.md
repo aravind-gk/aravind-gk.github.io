@@ -36,7 +36,7 @@ body {
     <img  width="260" height="260" src="./pictures/linkedin-dp.jpeg" >
 </div>
 
-### Hey there, I'm Aravind 👋 
+### Hey there 👋 
 
 - 🔭 I work as a Data & Applied Scientist at Microsoft.
 - 🎓 Master's in Artificial Intelligence from Indian Institute of Science (IISc), where I worked extensively on recommendation systems.

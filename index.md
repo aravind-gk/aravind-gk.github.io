@@ -33,7 +33,7 @@ body {
 
 <!-- |I am text to the left|![image](./pictures/octocat.png#right)| -->
 <div class="image-cropper">
-    <img  width="260" height="260" src="./pictures/linkedin-dp.jpeg" >
+    <img  width="260" height="260" src="./pictures/hiroto.jpg" >
 </div>
 
 ### Hey there 👋 
@@ -44,4 +44,5 @@ body {
 - 👯 I'm looking to collaborate on interesting ML projects, and I also offer consultancy services to startups in specific domains of AI and machine learning.
 - 💬 Ask me about AI, life at IISc or preparing for the GATE Exam.
 - 📫 Find me on: <a href="https://www.linkedin.com/in/aravind-gk/" target="_blank" rel="noopener noreferrer">Linkedin</a>, <a href="https://twitter.com/_aravind_gk" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.quora.com/profile/G-Aravind" target="_blank" rel="noopener noreferrer">Quora</a>, <a href="https://myanimelist.net/profile/RaphaelSensei" target="_blank" rel="noopener noreferrer">MyAnimeList</a>, <a href="https://steamcommunity.com/id/aravindg/" target="_blank" rel="noopener noreferrer">Steam</a>.
+
 

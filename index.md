@@ -38,7 +38,7 @@ body {
 
 ### Hey there 👋 
 
-- 🔭 I work as a Data & Applied Scientist at Microsoft.
+- 🔭 I work as a Data & Applied Scientist.
 - 🎓 Master's in Artificial Intelligence from Indian Institute of Science (IISc), where I worked extensively on recommendation systems.
 - 🌱 Also learning natural language processing, reinforcement learning, computer vision and scalable systems.
 - 👯 I'm looking to collaborate on ML projects, and I also offer consultancy services to startups in specific domains of AI and machine learning.
